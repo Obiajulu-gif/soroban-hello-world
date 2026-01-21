@@ -12,5 +12,4 @@ impl Contract {
     }
 }
 
-
 mod test;
